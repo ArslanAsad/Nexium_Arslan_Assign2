@@ -86,7 +86,9 @@ export default function BlogSummarizer() {
   };
 
   const handleTryExample = () => {
-    setUrl("https://blog.vercel.com/what-is-next-js");
+    setUrl(
+      "https://medium.com/@jordan_gibbs/chatgpt-is-poisoning-your-brain-b66c16ddb7ae"
+    );
   };
 
   return (
